@@ -1,4 +1,4 @@
-Continut:
+Continut
 HTML, limbajul de marcare al documentului, structura, conținutul paginii
 Tag-uri și atribute
 Scheletul documentului HTML: doctype, html, head, body
