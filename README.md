@@ -1,3 +1,6 @@
+GoIt
+Modulul 1 - Lecția 1 - HTML Partea 1
+
 Continut
 HTML, limbajul de marcare al documentului, structura, conținutul paginii
 Tag-uri și atribute
